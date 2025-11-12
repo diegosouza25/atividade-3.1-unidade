@@ -1,0 +1,2 @@
+- [x] Adicionar CSS para tornar a imagem "diego lindo" circular como imagem de perfil
+- [ ] Alterar a fonte dos textos para Playfair Display
